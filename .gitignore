@@ -1,0 +1,6 @@
+.idea
+.http-client
+media
+venv
+.env
+db.sqlite3
